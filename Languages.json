@@ -13,5 +13,11 @@
     "LanguageTag": "tr",
     "NativeName": "Türkçe",
     "EnglishName": "Turkish"
+  },
+  "ru": {
+    "ru": {
+    "LanguageTag": "ru",
+    "NativeName": "Русский",
+    "EnglishName": "Russian"
   }
 }
